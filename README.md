@@ -1,5 +1,7 @@
 # Short text clustering
 
+Forked from hadifar/stc_clustering
+
 
 This repository contains the code presented in rep4NLP 2019:
 
